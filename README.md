@@ -49,11 +49,10 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Uabhishek05\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Uabhishek05\&theme=dark\&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uabhishek05\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ---
 
